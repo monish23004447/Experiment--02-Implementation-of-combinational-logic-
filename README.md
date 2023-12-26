@@ -1,5 +1,5 @@
-### Name: RAVIVARMAN G S
-### Reg-no:23006420
+### Name: MONISH KUMAR .V
+### Reg-no:23004447
 
 # Experiment--02-Implementation-of-combinational-logic
  
